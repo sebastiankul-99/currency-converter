@@ -16,9 +16,9 @@
 
 To run the application without docker, you need to have installed:
 
-* Golang (preferably version 1.17 or above) - if you dont have, you can get it from https://go.dev/
+* Golang (preferably version 1.17 or above) - if you don't have it, you can get it from https://go.dev/
 * Node.js (preferably version 16.14.2 or newer) - if not installed, you can get it from https://nodejs.org/en/
-* NPM or YARN, I've used NPM, so the following instruction will be for NPM - if dont have NPM, you can get it from https://www.npmjs.com/package/npm
+* NPM or YARN, I've used NPM, so the following instruction will be for NPM - if you don't have NPM, you can get it from https://www.npmjs.com/package/npm
 
 When you installed the prerequisites, go to currency-converter/backend directory and run this command in the terminal:
 
