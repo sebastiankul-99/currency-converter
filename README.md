@@ -36,7 +36,7 @@ When the app is loaded, it should be available at:
 
         http://localhost:3000
 
-Depending on the configuration, the port number may vary but most likely it will port 3000.
+Depending on the configuration, the port number may vary but most likely it will be port 3000.
 
 
 ## **Troubleshooting**:
